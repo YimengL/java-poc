@@ -7,8 +7,7 @@
 
 *****
 
-# 2. ORM demo
+# 2. One on One Relationship
 
-* Add a Hibernate Configuration file
-* Annotate Java class (Student.java)
-* Test Connection
+* `CascadeType.ALL`
+* Uni-directional
