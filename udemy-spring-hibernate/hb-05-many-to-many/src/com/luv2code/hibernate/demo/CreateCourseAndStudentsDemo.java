@@ -35,8 +35,6 @@ public class CreateCourseAndStudentsDemo {
 			// create a course
 			Course tempCourse = new Course("Pacman - How to Score One Million Points");
 			
-			
-			
 			// save the course
 			System.out.println("\nSaving the course ...");
 			session.save(tempCourse);
