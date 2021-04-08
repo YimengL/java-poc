@@ -13,7 +13,6 @@ import com.luv2code.springdemo.entity.Customer;
 public class CustomerServiceImpl implements CustomerService {
 
 	// need to inject customer dao
-	
 	@Autowired
 	private CustomerDAO customerDAO;
 	
